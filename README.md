@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Zain Abbas 👋
 
-<!--
-**Mzainabbasx1/Mzainabbasx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student
+💻 Passionate about **development** and **design**
+🏢 2 years of experience as an Accountant & Registration Officer at my college
+🌱 Currently sharpening my dev skills through daily practice at home
 
-Here are some ideas to get you started:
+## 🔧 What I'm into
+- Web/App Development
+- UI/UX Design
+- Building projects to learn by doing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me
+- LinkedIn: www.linkedin.com/in/zain-abbas-a3180128a
+
+---
+⭐️ Thanks for visiting my profile!
