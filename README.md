@@ -1,9 +1,9 @@
 # Hi there, I'm Muhammad Zain Abbas 👋
 
-🎓 Computer Science student
-💻 Passionate about **development** and **design**
-🏢 2 years of experience as an Accountant & Registration Officer at my college
-🌱 Currently sharpening my dev skills through daily practice at home
+🎓 Computer Science student.
+💻 Passionate about **development** and **design**.
+2 years of experience as an Accountant & Registration Officer at my college.
+Currently sharpening my dev skills through daily practice at home.
 
 ## 🔧 What I'm into
 - Web/App Development
